@@ -1,0 +1,42 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+*.ipynb_checkpoints
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+
+# Jupyter Notebook metadata
+.ipynb_checkpoints/
+
+# Data files
+data/*.csv
+data/*.xlsx
+data/*.json
+*.db
+
+# Model files
+*.h5
+*.pkl
+*.joblib
+*.sav
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode and IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Output folders
+__pycache__/
+output/
+plots/
